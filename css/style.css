@@ -1,0 +1,123 @@
+.top {
+    background-color: #C2DED1;
+    position: relative;
+    padding-top: 100px;
+}
+.middle {
+    background-color: #ECE5C7;
+   
+}
+.bottom {
+    background-color: #CDC2AE;
+   padding: 10px 0 10px;
+}
+body {
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin: 0;
+}
+.gr {
+    margin-bottom: 10px;
+}
+h1 {
+    font-size: 40px;
+    margin: 0 auto 0 auto;
+    width: 30%;
+    font-family: 'Sacramento', cursive;
+    font-weight: 700 ;
+
+}
+
+.HI {text-decoration: underline}
+
+.bcloud {
+    position: absolute;
+    right: 300px ;
+    top: 200px;
+        
+}
+
+.tcloud {
+    position: absolute;
+    left: 300px;
+    bottom: 100px;
+}
+
+ .icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}   
+    
+}
+
+   
+
+.xxx  {
+    width: 3%;
+    float: left;
+    margin-right: 20px;
+}
+.xxz  {
+    width: 3%;
+   float: left;
+    margin-right: 20px;
+}
+h2 {padding: 5px;}
+
+
+.int {
+    width: 40%;
+    margin: auto;
+}
+
+p {
+    line-height: 2;
+    font-size: 1rem;
+}
+
+hr {
+    border: dotted;
+    color: #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+
+.btn {
+    margin: 20 20 20 20;
+}
+
+.contact-me {width: 40%;
+margin: 40px auto 0px;}
+
+.bottom {
+  padding-top: 20px;
+    
+}
+
+
+a {
+    margin: 20px 20px 20px 20px;
+    font-family: 'Merriweather', serif;
+    text-decoration: none;}
+    
+    .cc {
+        font-size: 0.75rem;
+        
+    }
+.ra {
+    width: 55%;
+    height: 55%;
+}
+.ukr {position: absolute;
+    right: 4px ;
+    top: 4px;
+    width: 3%;
+    height: 5%; 
+}
+
+.r {
+    margin-bottom: 1rem;
+}
+.contact-me {padding-bottom: 15px;}
